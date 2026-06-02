@@ -1,0 +1,36 @@
+Resumen de la “Analítica de lo bello” (Kant, Crítica del juicio)
+
+Tesis principal
+Kant sostiene que el juicio estético sobre lo bello no se basa en conceptos, utilidad o conocimiento, sino en un sentimiento de satisfacción desinteresado, subjetivo pero con pretensión de universalidad. Este juicio es posible gracias a una libre armonía entre la imaginación y el entendimiento, y se funda en un principio a priori de finalidad sin fin.
+
+Ideas centrales (lenguaje claro, riguroso y accesible)
+
+1. Juicio estético vs. juicios lógico y moral
+   El juicio del gusto es estético: no busca conocer al objeto ni desearlo, sino que expresa un placer subjetivo sin interés. No es lógico ni moral, sino contemplativo.
+
+2. Satisfacción desinteresada
+   A diferencia de lo agradable (placer sensible) y lo bueno (valor moral o utilidad), lo bello se aprecia sin buscar utilidad ni provecho. El gusto no se apoya en ningún interés (ni sensorial ni racional), sino en el libre juego entre imaginación y entendimiento.
+
+3. Universalidad sin concepto
+   Aunque el juicio de gusto es subjetivo, reclama validez universal: quien llama a algo bello espera que los demás estén de acuerdo, aunque no pueda justificarlo con razones o conceptos.
+
+4. Finalidad sin fin
+   Lo bello se presenta como si el objeto tuviera una finalidad, pero sin propósito alguno: lo consideramos como si estuviera hecho “para ser contemplado”, aunque no tenga función. Esta es una finalidad formal, no funcional ni moral.
+
+5. Bello libre vs. bello adherente
+   - Bello libre: no depende de un concepto (ej. flores, arabescos, música sin tema). Juicio puramente estético.
+   - Bello adherente: ligado a un concepto (ej. un edificio, un rostro humano), y por tanto limitado por lo que “debe ser”.
+
+6. Placer estético como armonía subjetiva
+   El placer surge de una armonía entre facultades de conocer (imaginación y entendimiento) que se da sin reglas ni conceptos previos. Es una especie de juego mental que sentimos como placer sin interés, y por eso puede compartirse.
+
+Conclusión general
+La estética kantiana rompe con la idea de que lo bello puede definirse por reglas, utilidad o verdad. En cambio, sitúa lo bello en el sentimiento reflexivo, desinteresado, subjetivo pero con valor universal, y basado en una relación formal entre facultades mentales, no en el objeto mismo. El juicio del gusto no dice “qué es” lo bello, sino que experimenta lo bello en la forma como aparece.
+
+Comparación con Platón y Aristóteles
+- Platón vincula lo bello con la Idea del Bien, y lo considera una realidad objetiva accesible al alma racional. Lo bello es una manifestación del orden eterno, trascendente, por eso se puede (y debe) decir “qué es” el arte. Kant, en cambio, lo aleja de todo conocimiento objetivo: no hay concepto del arte o de lo bello, sino sentimiento estético sin objeto.
+
+- Aristóteles, aunque más empírico, también considera el arte desde la mímesis (representación), con un fin formativo o catártico. Para él, la belleza está en la forma y proporción, pero sigue ligada a un orden inteligible. Kant también valora la forma, pero no como adecuación a un fin externo, sino como finalidad sin fin: pura presentación placentera para la reflexión subjetiva.
+
+Respuesta a consigna:
+Kant distingue lo bello de lo bueno y lo agradable en función del tipo de satisfacción que produce y de las facultades involucradas: lo agradable se relaciona con los sentidos y provoca un placer inmediato y empírico; lo bueno se vincula con la razón y la moral, y supone un interés por la existencia del objeto o acción; en cambio, lo bello se aprecia mediante un juicio estético desinteresado, fundado en la libre armonía entre imaginación y entendimiento, sin depender de un concepto ni de utilidad alguna. Por eso, Kant plantea la necesidad de una crítica del juicio distinta de la razón teórica (que busca conocer) y de la razón práctica (que regula la acción): el juicio estético opera en un ámbito intermedio, donde el sujeto experimenta una satisfacción subjetiva pero con pretensión universal, lo que requiere fundamentar sus condiciones a priori sin reducirlo ni al conocimiento ni a la moral.

@@ -1,0 +1,41 @@
+# language=es prob=1 duration=7445.4613125
+[    1.97 -     9.97] que uno puede opinar y mayor o menor que tiene dificultades, ¿verdad?
+[    9.97 -    12.97] ¿Sí? Hola, ¿qué tal?
+[   12.97 -    14.97] ¡Yes!
+[   14.97 -    16.97] ¡Dios!
+[   16.97 -    18.97] ¡Dios!
+[   18.97 -    20.97] ¡Dios!
+[   20.97 -    27.31] ¿Cómo están? Buenas tardes. Buenas tardes, profe.
+[   27.31 -    42.08] ¡Hola! Buenas tardes.
+[   42.08 -    46.08] Bien, vamos a continuar hablando un poco de,
+[   46.08 -    50.08] encerrando una primera etapa del programa
+[   50.08 -    56.08] y hoy voy a comentar lo que espero para la primera evaluación de la mañana.
+[   56.08 -    61.08] Pero un poco cerrando la conversación que teníamos,
+[   61.08 -    64.08] llevarte, el problema que nosotros tenemos hoy
+[   64.08 -    68.08] es que mucho de los impas intelectuales que estamos
+[   68.08 -    74.08] tienen que ver con el giro primero lingüístico y luego el giro pomodano
+[   74.08 -    79.08] y la filosofía donde nosotros podemos lamentarnos
+[   79.08 -    85.08] de cierta incapacidad para tomar un debate
+[   85.08 -    87.08] y definirlo con cierta seriedad,
+[   87.08 -    93.08] pero las condiciones de ese debate han sido dadas por modos
+[   93.08 -    98.62] donde la posverdad ha sido autorizada.
+[   98.62 -   101.62] Entonces cuando uno ve la banalización de la cultura,
+[  101.62 -   103.62] los paneles, todo esto,
+[  103.62 -   105.62] tiene su correlecto de la filosofía
+[  105.62 -   108.62] y la reflexión sobre que todo es poder
+[  108.62 -   110.62] con que comenzamos este debate
+[  110.62 -   113.62] es por un tautismo,
+[  113.62 -   115.62] como lo llamamos un filosofo francés,
+[  115.62 -   116.62] es muy peligroso,
+[  116.62 -   119.62] si todo es poder,
+[  119.62 -   122.62] ¿cuál es la análisis que tengo que hacer?
+[  122.62 -   126.62] Por ejemplo, el poder viene de todas partes,
+[  126.62 -   130.62] y todo esto autoriza a que primero cualquier persona
+[  130.62 -   132.62] tiene que, porque le hizo un libro de Fucotin
+[  132.62 -   134.62] y algún poder cuando no lo tienen
+[  134.62 -   137.62] y segundo, que no entiendan que por ahora
+[  137.62 -   140.62] las formas de poder concentrado
+[  140.62 -   145.15] son fundamentales para el orden social
+[  145.15 -   147.15] para el vino, para la mano.
+[  147.15 -   151.15] Y no es lo mismo la idea de que el poder
+[  151.15 -   156.15] no viene de arriba hacia abajo,
