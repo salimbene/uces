@@ -2,8 +2,8 @@
 
 Este indice lista archivos pesados o binarios que quedan fisicamente en OneDrive, pero no se versionan en GitHub por `.gitignore`.
 
-- Generado: 2026-06-01 22:03
-- Total de archivos listados: 528
+- Generado: 2026-06-01 22:22
+- Total de archivos listados: 553
 - Tamano total aproximado: 5.8 GB
 
 ## Resumen por tipo
@@ -13,10 +13,10 @@ Este indice lista archivos pesados o binarios que quedan fisicamente en OneDrive
 | `.epub` | 16 |
 | `.m4a` | 9 |
 | `.mp4` | 9 |
-| `.pdf` | 443 |
+| `.pdf` | 467 |
 | `.ppt` | 2 |
 | `.pptx` | 47 |
-| `.zip` | 2 |
+| `.zip` | 3 |
 
 ## Archivos
 
@@ -534,12 +534,18 @@ Este indice lista archivos pesados o binarios que quedan fisicamente en OneDrive
 
 | Archivo | Tipo | Tamano |
 | --- | --- | ---: |
+| `administrativo/certificados/certificado-alumno-regular.pdf` | `.pdf` | 70.8 KB |
 | `administrativo/certificados/certificado-de-asignaturas-aprobadas-lic.pdf` | `.pdf` | 56.5 KB |
 | `administrativo/certificados/certificado-de-asignaturas-aprobadas-prof.pdf` | `.pdf` | 56.5 KB |
+| `administrativo/certificados/FILO_certificado 1.pdf` | `.pdf` | 20.5 KB |
+| `administrativo/certificados/materiasregularizadas.pdf` | `.pdf` | 37.5 KB |
 | `administrativo/certificados/SALIMBENE, MATIAS DAMIAN_29985978.pdf` | `.pdf` | 204.1 KB |
+| `administrativo/comprobantes/archivo.pdf` | `.pdf` | 28.5 KB |
 | `administrativo/comprobantes/nave-comprobante-de-pago-CXG293110400.pdf` | `.pdf` | 192.6 KB |
 | `administrativo/comprobantes/nave-comprobante-de-pago-DCT345036414.pdf` | `.pdf` | 193.4 KB |
 | `administrativo/comprobantes/nave-comprobante-de-pago-EDC881954122.pdf` | `.pdf` | 259.5 KB |
+| `administrativo/comprobantes/PV-2024-04173920-UBA-DLEG_REC.pdf` | `.pdf` | 187.4 KB |
+| `administrativo/comprobantes/PV-2024-04173921-UBA-DLEG_REC.pdf` | `.pdf` | 187.3 KB |
 | `administrativo/extraidos/extraidos_CE-2024-05246705-UBA-DLEG_23REC_CE-2024-05183454-UBA-DLEG%REC (1).pdf` | `.pdf` | 313.1 KB |
 | `administrativo/extraidos/extraidos_CE-2024-05540580-UBA-DA_23FFYL_Etica 2017_compressed.pdf` | `.pdf` | 478.2 KB |
 | `administrativo/extraidos/extraidos_CE-2024-05540580-UBA-DA_23FFYL_Filosofia de las Ciencias 2017_compressed.pdf` | `.pdf` | 225.4 KB |
@@ -552,17 +558,36 @@ Este indice lista archivos pesados o binarios que quedan fisicamente en OneDrive
 | `administrativo/extraidos/extraidos_CE-2024-05540580-UBA-DA_23FFYL_Pensamiento Argentino y Latinoamericano 2017_compressed.pdf` | `.pdf` | 419.6 KB |
 | `administrativo/extraidos/extraidos_CE-2024-05540580-UBA-DA_23FFYL_SALIMBENE, Matias Damian (Caratula PM).pdf` | `.pdf` | 74.3 KB |
 | `administrativo/extraidos/extraidos_CE-2024-05540580-UBA-DA_FFYL_CE-2024-05339869-UBA-DLEG%23REC.pdf` | `.pdf` | 438.5 KB |
+| `administrativo/otros/148310.pdf` | `.pdf` | 21.1 KB |
 | `administrativo/otros/archivo (1).pdf` | `.pdf` | 28.5 KB |
 | `administrativo/otros/archivo.pdf` | `.pdf` | 28.5 KB |
 | `administrativo/otros/archivo_1.pdf` | `.pdf` | 28.5 KB |
+| `administrativo/otros/equivalencias.zip` | `.zip` | 2.3 MB |
 | `administrativo/planes-estudio/1.- CS Nº 78-85 - Plan de Estudios.pdf` | `.pdf` | 975.4 KB |
+| `administrativo/planes-estudio/2017_Programa Historia Pensamiento Argentino y Latinoamericano.pdf` | `.pdf` | 364.6 KB |
+| `administrativo/planes-estudio/2017_Programa Historia Social General.pdf` | `.pdf` | 1.5 MB |
+| `administrativo/planes-estudio/2018_Programa Etica.pdf` | `.pdf` | 322.1 KB |
+| `administrativo/planes-estudio/2018_Programa Filosofia de la Ciencia.pdf` | `.pdf` | 297.2 KB |
+| `administrativo/planes-estudio/2018_Programa Historia Filosofia Antigua.pdf` | `.pdf` | 211.9 KB |
+| `administrativo/planes-estudio/2018_Programa Logica.pdf` | `.pdf` | 197.2 KB |
+| `administrativo/planes-estudio/2021_Programa Filosofia del Derecho.pdf` | `.pdf` | 254.5 KB |
+| `administrativo/planes-estudio/2021_Programa Metafisica.pdf` | `.pdf` | 365.6 KB |
 | `administrativo/planes-estudio/Copia de Profesorado - Res. CS 6454-17.pdf` | `.pdf` | 1.8 MB |
 | `administrativo/planes-estudio/FI - Plan 2017 Modif. 2024 - Licenciatura y Bach. - RESCS-2024-1508-UBA-REC - Res y Anexo.pdf` | `.pdf` | 551.7 KB |
 | `administrativo/planes-estudio/Filosofía - Plan de Estudios 1985.pdf` | `.pdf` | 4.4 MB |
+| `administrativo/planes-estudio/filosofía de las ciencias_uba_ffyl_p_2017.pdf` | `.pdf` | 506.8 KB |
+| `administrativo/planes-estudio/filosofía del derecho_uba_ffyl_pn_2021.pdf` | `.pdf` | 2.2 MB |
+| `administrativo/planes-estudio/historia de la filosofía medieval_uba_ffyl_p_fil_1_2019.pdf` | `.pdf` | 2.7 MB |
 | `administrativo/planes-estudio/Licenciatura - Res. CS 6455-17.pdf` | `.pdf` | 1.7 MB |
+| `administrativo/planes-estudio/logica_uba_ffyl_p_2018.pdf` | `.pdf` | 853.1 KB |
+| `administrativo/planes-estudio/metafísica_uba_ffyl_pn_2021.pdf` | `.pdf` | 2.3 MB |
 | `administrativo/planes-estudio/ORGANIZACIÓN PLAN FILOSOFIA LIC.pdf` | `.pdf` | 161.5 KB |
 | `administrativo/planes-estudio/ORGANIZACIÓN PLAN FILOSOFIA PROF.pdf` | `.pdf` | 159.9 KB |
 | `administrativo/planes-estudio/PE Licenciatura Filosofía 2024_0.pdf` | `.pdf` | 548.8 KB |
+| `administrativo/planes-estudio/pensamiento argentino y latinoamericano_uba_ffyl_p_2017.pdf` | `.pdf` | 922.5 KB |
+| `administrativo/planes-estudio/plan-estudio-filosofia.pdf` | `.pdf` | 38.4 KB |
+| `administrativo/planes-estudio/uba_ffyl_p_2017_fil_etica.pdf` | `.pdf` | 1.3 MB |
+| `administrativo/planes-estudio/uba_ffyl_p_2017_fil_historia de la filosofía antigua B.pdf` | `.pdf` | 628.7 KB |
 | `administrativo/resoluciones/CE-2024-05246705-UBA-DLEG_23REC.pdf` | `.pdf` | 438.6 KB |
 | `administrativo/resoluciones/CE-2024-05540580-UBA-DA_23FFYL.pdf` | `.pdf` | 3.8 MB |
 | `administrativo/resoluciones/CE-2026-02833765-UBA-DAADE%23FFYL.pdf` | `.pdf` | 224.9 KB |
