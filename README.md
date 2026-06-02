@@ -11,3 +11,5 @@ Repositorio de apuntes, materiales de cursada y documentos academicos.
 ## Git y OneDrive
 
 La carpeta esta ubicada en OneDrive para sincronizar todo el contenido. GitHub versiona apuntes, transcripciones, documentos livianos y la estructura. Bibliografia pesada, presentaciones, audios, videos y archivos grandes quedan en OneDrive pero excluidos por `.gitignore`.
+
+El listado de esos archivos excluidos esta en `INDICE_ONEDRIVE.md`, para poder consultar desde GitHub que material queda disponible localmente por OneDrive.
